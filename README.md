@@ -2,7 +2,7 @@
 
 Hi, I'm Max. Welcome to my repository!
 
-My Chinese name is Pengyao Zhao. My preferred email is [pengyao.zhao@smu.com](mailto:pengyao.zhao@smu.ca). My A-number is A00476491.
+My Chinese name is Pengyao Zhao. My preferred email is [pengyao.zhao@smu.ca](mailto:pengyao.zhao@smu.ca). My A-number is A00476491.
 
 ## Technology Interests
 
